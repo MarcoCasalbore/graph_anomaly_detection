@@ -2,8 +2,6 @@
 
 Self-contained notebook project for a first node-level graph anomaly detection pipeline inspired by DGM-style graph learning and context-aware graph anomaly detection.
 
-The original W-DGM and Graph-water-recon repositories were used only as technical references. This project is designed to run independently.
-
 ## Structure
 
 ```text
