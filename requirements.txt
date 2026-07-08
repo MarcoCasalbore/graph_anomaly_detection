@@ -1,0 +1,15 @@
+# Tested with Python 3.12.3
+#
+# Note: the local environment used during development had:
+# torch 2.5.1+cu121
+# If CUDA-specific installation is needed, install PyTorch following:
+# https://pytorch.org/get-started/locally/
+
+ipykernel==7.1.0
+numpy==2.3.3
+pandas==2.3.3
+matplotlib==3.10.7
+networkx==3.5
+scikit-learn==1.7.2
+tqdm==4.67.1
+torch==2.5.1

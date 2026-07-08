@@ -1,0 +1,41 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local/editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Codex/local agent artifacts
+.codex/
+.agents/
+
+# Local data and generated outputs
+data/*
+!data/.gitkeep
+results/*
+!results/.gitkeep
+
+# Reference papers or copyrighted local material
+*.pdf
+
+# Logs and temporary files
+*.log
+*.tmp
+_update*.py
+_fix*.py
