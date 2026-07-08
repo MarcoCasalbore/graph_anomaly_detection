@@ -43,3 +43,5 @@ The first notebook uses a synthetic water-like dataset and feature aggregates pe
 - simple visualizations.
 
 Temporal-window and edge-level anomaly detection are planned extensions.
+
+At this time the architecture is designed to work only in a supervised setting (for the anomaly detection task), but a semi-supervised setting could be a possible extension. 
